@@ -1,8 +1,8 @@
 {
-  "name": "vaibhavcoding69.github.io",
+  "name": "redac1ed.github.io",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://vaibhavcoding69.github.io/",
+  "homepage": "https://redac1ed.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,11 +11,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@icons-pack/react-simple-icons": "^13.12.0",
+    "autoprefixer": "^10.4.27",
+    "framer-motion": "^12.34.3",
+    "lucide-react": "^0.575.0",
+    "postcss": "^8.5.6",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.13.1",
+    "tailwindcss": "^4.2.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
+    "@tailwindcss/postcss": "^4.2.1",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
